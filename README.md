@@ -35,6 +35,11 @@ DSAStudentInformation/
 │   ├── StudentInformationManagement.cpp          # Student entity implementation
 ├── README.md
 
+![Screenshot](Images/DSAImage1.png)
+![Screenshot](Images/DSAImage2.png)
+![Screenshot](Images/DSAImage3.png)
+
+
 
 
     
