@@ -1501,10 +1501,3 @@ int main()
         }
     } while (choice != 6);
 }
-
-// Group Name                    ID
-// 1.Abraham Molla               RCD/0889/2017 
-// 2.Beka Gizaw                  RCD/1692/2017  
-// 3.Kalab Belay                 RCD/0921/2017 
-// 4. Paulos Simeon              RCD/1702/2017 
-// 5. Ayub Mohammed              RCD/0084/2018
